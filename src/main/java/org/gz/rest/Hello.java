@@ -1,4 +1,4 @@
-package org.gz;
+package org.gz.rest;
 
 import org.gz.ioc.Component;
 import org.gz.mvc.annotations.Param;
