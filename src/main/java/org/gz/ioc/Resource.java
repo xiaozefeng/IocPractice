@@ -5,7 +5,7 @@ import java.lang.annotation.*;
 /**
  * @author xiaozefeng
  */
-@Target(ElementType.METHOD)
+@Target(ElementType.FIELD)
 @Retention(RetentionPolicy.RUNTIME)
 @Documented
 public @interface Resource {
